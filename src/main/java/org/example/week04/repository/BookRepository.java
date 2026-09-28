@@ -1,6 +1,6 @@
-package org.example.week04.sb_greeting_project.repository;
+package org.example.week04.repository;
 
-import com.webservice.week04.domain.Book;
+import org.example.week04.domain.Book;
 
 import java.util.List;
 import java.util.Optional;

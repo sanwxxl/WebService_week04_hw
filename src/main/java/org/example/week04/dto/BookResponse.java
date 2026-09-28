@@ -1,6 +1,7 @@
-package org.example.week04.sb_greeting_project.dto;
+package org.example.week04.dto;
 
-public record BookRequest(
+public record BookResponse(
+        Long id,
         String title,
         String author,
         int price,

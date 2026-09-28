@@ -1,4 +1,4 @@
-package org.example.week04.sb_greeting_project.domain;
+package org.example.week04.domain;
 
 public class Book {
 
